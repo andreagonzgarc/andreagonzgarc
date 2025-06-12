@@ -7,7 +7,7 @@ I'm **Andrea González**, and I work in macroeconomic research, specializing in 
 ### 🔭 I’m currently working on:
 
 - 🧮 **Macroeconomic forecast evaluation**  
-- 💼 **Inflationary pressures from labor markets with high informality**
+- 💼 **Inflationary pressures from labor markets with high informality rates**
 
 <!--
 **andreagonzgarc/andreagonzgarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
