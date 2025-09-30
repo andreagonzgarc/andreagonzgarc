@@ -6,6 +6,7 @@ I'm **Andrea González**, and I work in macroeconomic research, specializing in 
 
 ### 🔭 I’m currently working on:
 
+- 💼 **Search Costs and Structural Change in Labor Market Flows**
 - 🧮 **Macroeconomic forecast evaluation**  
 - 💼 **Inflationary pressures from labor markets with high informality rates**
 
